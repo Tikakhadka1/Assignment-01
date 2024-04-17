@@ -12,3 +12,4 @@ C:\Users\Tika Khadka\Desktop\git\Assignment 01\PeopleManagement\obj\Debug\net8.0
 C:\Users\Tika Khadka\Desktop\git\Assignment 01\PeopleManagement\obj\Debug\net8.0\PeopleManagement.pdb
 C:\Users\Tika Khadka\Desktop\git\Assignment 01\PeopleManagement\obj\Debug\net8.0\PeopleManagement.genruntimeconfig.cache
 C:\Users\Tika Khadka\Desktop\git\Assignment 01\PeopleManagement\obj\Debug\net8.0\ref\PeopleManagement.dll
+C:\Users\Tika Khadka\Desktop\git\Assignment 01\PeopleManagement\obj\Debug\net8.0\PeopleManagement.sourcelink.json
